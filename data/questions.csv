@@ -1,0 +1,71 @@
+id,category,question,difficulty
+Q001,CONCEPT,What is the offside rule in football?,easy
+Q002,CONCEPT,What is a pressing strategy and how does it work?,medium
+Q003,CONCEPT,What is the difference between a false 9 and a traditional striker?,hard
+Q004,CONCEPT,What is a high defensive line and what are its risks?,medium
+Q005,CONCEPT,What does it mean when a team plays out from the back?,easy
+Q006,CONCEPT,What is a counter-attack and how is it typically executed?,easy
+Q007,CONCEPT,What is a set piece and what are the main types used in football?,easy
+Q008,CONCEPT,What is the role of a target man in football?,easy
+Q009,CONCEPT,What is an overlap run in football and when is it used?,easy
+Q010,CONCEPT,What is a low block defensive strategy?,easy
+Q011,CONCEPT,What is gegenpressing and which coaches are most associated with it?,medium
+Q012,CONCEPT,What is the role of a defensive midfielder (CDM) in a football team?,medium
+Q013,CONCEPT,What is a box-to-box midfielder and what are their key responsibilities?,medium
+Q014,CONCEPT,What is zonal marking and how does it differ from man-marking?,medium
+Q015,CONCEPT,What is a three-at-the-back formation and how does it typically operate?,medium
+Q016,CONCEPT,What is a regista and how does this role differ from a standard central midfielder?,hard
+Q017,CONCEPT,What is positional play (juego de posición) in football?,hard
+Q018,CONCEPT,What is the half-space in football tactics and why is it targeted by attacking teams?,hard
+Q019,CONCEPT,What are pressing triggers and how do coaches use them to organize defensive pressure?,hard
+Q020,CONCEPT,What is a false full-back and how does this role contribute to a team's attacking structure?,hard
+Q021,HISTORY,How many Ballon d'Or awards has Lionel Messi won as of 2023?,easy
+Q022,HISTORY,Which country won the first FIFA World Cup held in 1930?,easy
+Q023,HISTORY,Who is the all-time top scorer in FIFA World Cup tournament history?,easy
+Q024,HISTORY,Which club has won the most UEFA Champions League titles?,easy
+Q025,HISTORY,How many times has Brazil won the FIFA World Cup?,easy
+Q026,HISTORY,"In which year did England win the FIFA World Cup, and which country did they defeat in the final?",medium
+Q027,HISTORY,"Who scored the famous ""Hand of God"" goal, and in which match did it occur?",medium
+Q028,HISTORY,Which club won the first five UEFA European Cup titles consecutively from 1956 to 1960?,medium
+Q029,HISTORY,Who holds the record for the most goals scored in a single Premier League season and how many goals did they score?,medium
+Q030,HISTORY,Which player won the Golden Ball (best player award) at the 2014 FIFA World Cup?,medium
+Q031,HISTORY,Who holds the record for the most goals scored in a single calendar year and how many goals did they score?,hard
+Q032,HISTORY,Which player has won the most UEFA Champions League medals as a player throughout their career?,hard
+Q033,HISTORY,How many international goals did Gerd Müller score for West Germany throughout his career?,hard
+Q034,HISTORY,"Which manager led his club to an unbeaten Premier League season (""The Invincibles""), and in which season did this occur?",hard
+Q035,HISTORY,Who was the first African player to win the FIFA World Player of the Year award and in which year?,hard
+Q036,COMPARE,What are the main tactical differences between a 4-4-2 and a 4-3-3 formation?,easy
+Q037,COMPARE,How does a winger differ from a full-back in terms of position and role on the pitch?,easy
+Q038,COMPARE,What is the difference between a penalty kick and a direct free kick in football?,easy
+Q039,COMPARE,How does a yellow card differ from a red card in terms of consequences for the player and team?,easy
+Q040,COMPARE,What are the main differences between the UEFA Champions League and the UEFA Europa League?,easy
+Q041,COMPARE,What is the difference between a direct free kick and an indirect free kick in football?,easy
+Q042,COMPARE,How does futsal differ from outdoor football in terms of rules and playing surface?,easy
+Q043,COMPARE,What are the tactical differences between a 4-3-3 and a 4-2-3-1 formation?,medium
+Q044,COMPARE,How does Total Football as played by the Netherlands in the 1970s compare to the tiki-taka style of Barcelona in the 2010s?,medium
+Q045,COMPARE,What are the key structural and stylistic differences between the English Premier League and Spain's La Liga?,medium
+Q046,COMPARE,How does a false 9 compare to a traditional number 10 (attacking midfielder) in terms of tactical function?,medium
+Q047,COMPARE,What are the key differences between the roles of a defensive midfielder (CDM) and a box-to-box midfielder?,medium
+Q048,COMPARE,How do inverted wingers compare to traditional wide forwards in their attacking patterns and movement?,medium
+Q049,COMPARE,What are the tactical differences between a high-pressing team and a team that defends with a low block?,medium
+Q050,COMPARE,How does Pep Guardiola's positional play (juego de posición) differ from Jürgen Klopp's gegenpressing in defensive and offensive principles?,hard
+Q051,COMPARE,"What are the tactical differences between a 3-5-2 and a 5-3-2 formation, and when would each be preferred?",hard
+Q052,COMPARE,How does the modern attacking full-back role compare to the traditional full-back position of the 1980s in terms of responsibilities?,hard
+Q053,COMPARE,What are the differences between zonal marking and man-marking at defensive set pieces and what are the strengths of each approach?,hard
+Q054,COMPARE,How does the Italian Catenaccio defensive system compare to modern high defensive line systems in structure and philosophy?,hard
+Q055,COMPARE,What are the tactical differences between a high press organized with man-orientation versus one organized with zonal-orientation?,hard
+Q056,ANALYSIS,Why is home advantage considered an important factor in professional football matches?,easy
+Q057,ANALYSIS,Why do teams typically adopt a more conservative approach in the away leg of knockout competitions?,easy
+Q058,ANALYSIS,Why is physical fitness and conditioning increasingly important in modern professional football?,easy
+Q059,ANALYSIS,Why do teams often switch to a more defensive formation when protecting a narrow lead in the final minutes of a match?,easy
+Q060,ANALYSIS,Why is accurate set-piece delivery considered a crucial skill for teams with physically dominant strikers?,easy
+Q061,ANALYSIS,Why was Pep Guardiola's Barcelona so dominant in European and domestic football between 2009 and 2011?,medium
+Q062,ANALYSIS,Why did the introduction of the back-pass rule in 1992 significantly change the role and requirements for goalkeepers?,medium
+Q063,ANALYSIS,Why do top professional clubs invest heavily in data analytics and sports science departments?,medium
+Q064,ANALYSIS,Why was Leicester City's Premier League title victory in the 2015-16 season considered one of the greatest sporting upsets?,medium
+Q065,ANALYSIS,Why is controlling the central midfield area often described as the key to winning football matches?,medium
+Q066,ANALYSIS,Why did the 4-2-3-1 formation become the most widely adopted system across world football during the 2000s?,hard
+Q067,ANALYSIS,What tactical and psychological factors contributed to Brazil's 7-1 semi-final defeat to Germany at the 2014 FIFA World Cup?,hard
+Q068,ANALYSIS,Why has the role of the full-back evolved so significantly in modern football compared to the 1990s and earlier decades?,hard
+Q069,ANALYSIS,Why do some managers prefer to build up play from the goalkeeper despite the risks this approach creates near their own goal?,hard
+Q070,ANALYSIS,Why did Arrigo Sacchi's AC Milan of the late 1980s revolutionize defensive organization and high-pressing tactics in European football?,hard
