@@ -9,13 +9,13 @@ Q007,CONCEPT,What is a set piece and what are the main types used in football?,e
 Q008,CONCEPT,What is the role of a target man in football?,easy
 Q009,CONCEPT,What is an overlap run in football and when is it used?,easy
 Q010,CONCEPT,What is a low block defensive strategy?,easy
-Q011,CONCEPT,What is gegenpressing and which coaches are most associated with it?,medium
+Q011,CONCEPT,What is the purpose of a double pivot in midfield and which formation most commonly uses it?,medium
 Q012,CONCEPT,What is the role of a defensive midfielder (CDM) in a football team?,medium
 Q013,CONCEPT,What is a box-to-box midfielder and what are their key responsibilities?,medium
-Q014,CONCEPT,What is zonal marking and how does it differ from man-marking?,medium
+Q014,CONCEPT,What is the offside trap and how is it executed by a defensive line?,medium
 Q015,CONCEPT,What is a three-at-the-back formation and how does it typically operate?,medium
 Q016,CONCEPT,What is a regista and how does this role differ from a standard central midfielder?,hard
-Q017,CONCEPT,What is positional play (juego de posición) in football?,hard
+Q017,CONCEPT,What is the role of a libero in a three-at-the-back system and how does it differ from a traditional centre-back?,hard
 Q018,CONCEPT,What is the half-space in football tactics and why is it targeted by attacking teams?,hard
 Q019,CONCEPT,What are pressing triggers and how do coaches use them to organize defensive pressure?,hard
 Q020,CONCEPT,What is a false full-back and how does this role contribute to a team's attacking structure?,hard
@@ -48,12 +48,12 @@ Q046,COMPARE,How does a false 9 compare to a traditional number 10 (attacking mi
 Q047,COMPARE,What are the key differences between the roles of a defensive midfielder (CDM) and a box-to-box midfielder?,medium
 Q048,COMPARE,How do inverted wingers compare to traditional wide forwards in their attacking patterns and movement?,medium
 Q049,COMPARE,What are the tactical differences between a high-pressing team and a team that defends with a low block?,medium
-Q050,COMPARE,How does Pep Guardiola's positional play (juego de posición) differ from Jürgen Klopp's gegenpressing in defensive and offensive principles?,hard
+Q050,COMPARE,How does the 4-3-3 used by Pep Guardiola's Barcelona differ from the 4-3-3 used by Jürgen Klopp's Liverpool in terms of pressing and build-up structure?,hard
 Q051,COMPARE,"What are the tactical differences between a 3-5-2 and a 5-3-2 formation, and when would each be preferred?",hard
-Q052,COMPARE,How does the modern attacking full-back role compare to the traditional full-back position of the 1980s in terms of responsibilities?,hard
+Q052,COMPARE,How does the role of a second striker (shadow striker) differ from that of a traditional centre-forward in terms of movement and positioning?,hard
 Q053,COMPARE,What are the differences between zonal marking and man-marking at defensive set pieces and what are the strengths of each approach?,hard
 Q054,COMPARE,How does the Italian Catenaccio defensive system compare to modern high defensive line systems in structure and philosophy?,hard
-Q055,COMPARE,What are the tactical differences between a high press organized with man-orientation versus one organized with zonal-orientation?,hard
+Q055,COMPARE,How does a 4-4-2 flat formation compare to a 4-4-2 diamond in terms of midfield structure, attacking options, and defensive coverage?,hard
 Q056,ANALYSIS,Why is home advantage considered an important factor in professional football matches?,easy
 Q057,ANALYSIS,Why do teams typically adopt a more conservative approach in the away leg of knockout competitions?,easy
 Q058,ANALYSIS,Why is physical fitness and conditioning increasingly important in modern professional football?,easy
