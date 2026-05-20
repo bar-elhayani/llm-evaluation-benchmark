@@ -1,3 +1,4 @@
+import argparse
 import csv
 import os
 import time
@@ -83,14 +84,19 @@ def judge(client: anthropic.Anthropic, question: str, response: str, category: s
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--input", default=RESPONSES_FILE)
+    parser.add_argument("--output", default=SCORES_FILE)
+    args = parser.parse_args()
+
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 
-    responses = load_csv(RESPONSES_FILE)
+    responses = load_csv(args.input)
     questions = {row["id"]: row["question"] for row in load_csv(QUESTIONS_FILE)}
 
-    write_header = not os.path.exists(SCORES_FILE)
+    write_header = not os.path.exists(args.output)
 
-    with open(SCORES_FILE, "a", newline="", encoding="utf-8") as out_f:
+    with open(args.output, "a", newline="", encoding="utf-8") as out_f:
         writer = csv.DictWriter(
             out_f,
             fieldnames=["question_id", "category", "difficulty", "model", "judge_score", "judge_explanation"],
