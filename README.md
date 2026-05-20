@@ -47,6 +47,13 @@ knowledge_base/ → run_models_rag.py → responses_rag.csv → evaluate.py → 
 - Most affected category: **CONCEPT**
 - **Llama 3.1 8B handled RAG better** (smaller performance drop)
 
+### Why did RAG hurt performance?
+
+- Retrieved chunks (500 chars) were often too short to contain a complete answer, adding partial context that confused the model
+- Models over-relied on retrieved text even when their training knowledge was more accurate
+- The larger 70B model was hurt more - it has stronger internal knowledge, so noisy context conflicted more with what it already knew
+- The smaller 8B model was less affected - weaker internal knowledge meant less conflict with the added context
+
 ## How to Run
 
 ```bash
