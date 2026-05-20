@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "PowerShell(venv\\\\Scripts\\\\python src\\\\run_models.py)"
-    ]
-  }
-}
