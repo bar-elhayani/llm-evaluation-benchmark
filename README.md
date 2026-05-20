@@ -1,8 +1,8 @@
-# LLM Evaluation Benchmark — Football Knowledge
+# LLM Evaluation Benchmark - Football Knowledge
 
 ## Overview
 
-This project builds an automated evaluation pipeline that tests two LLMs on football knowledge questions, scores their responses using Claude as an LLM-as-judge, and compares performance with and without RAG (Retrieval-Augmented Generation). Questions span four categories — tactical concepts, historical facts, comparisons, and analytical reasoning — at three difficulty levels. A Wikipedia-sourced knowledge base is used to evaluate whether retrieval-augmented prompting improves or hurts model accuracy.
+This project builds an automated evaluation pipeline that tests two LLMs on football knowledge questions, scores their responses using Claude as an LLM-as-judge, and compares performance with and without RAG (Retrieval-Augmented Generation). Questions span four categories - tactical concepts, historical facts, comparisons, and analytical reasoning - at three difficulty levels. A Wikipedia-sourced knowledge base is used to evaluate whether retrieval-augmented prompting improves or hurts model accuracy.
 
 ## Pipeline
 
@@ -86,11 +86,11 @@ jupyter notebook notebooks/analysis.ipynb
 
 ## Tech Stack
 
-- **Python** — pipeline scripts
-- **Groq API** — LLM inference (Llama models)
-- **Anthropic API** — Claude as LLM-as-judge
-- **FAISS** — vector similarity search for RAG
-- **sentence-transformers** — text embeddings (`all-MiniLM-L6-v2`)
-- **pandas** — data manipulation
-- **matplotlib** — result charts
-- **Jupyter** — interactive analysis notebook
+- **Python** - pipeline scripts
+- **Groq API** - LLM inference (Llama models)
+- **Anthropic API** - Claude as LLM-as-judge
+- **FAISS** - vector similarity search for RAG
+- **sentence-transformers** - text embeddings (`all-MiniLM-L6-v2`)
+- **pandas** - data manipulation
+- **matplotlib** - result charts
+- **Jupyter** - interactive analysis notebook
