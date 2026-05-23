@@ -58,7 +58,7 @@ llm-evaluation-benchmark/
 
 ## Phase 1 - Baseline Evaluation
 
-### What we did
+### Approach
 
 Created a dataset of 70 football questions spanning four categories and three difficulty levels:
 
@@ -104,7 +104,7 @@ Using a structured rubric per category (rather than a single generic prompt) mak
 
 ## Phase 2 - Retrieval-Augmented Generation (RAG)
 
-### What we did
+### Approach
 
 RAG is a technique that retrieves relevant external information at query time and injects it into the prompt as context before the model generates its answer. The hypothesis: grounding models in Wikipedia content should improve factual accuracy, especially for HISTORY questions.
 
