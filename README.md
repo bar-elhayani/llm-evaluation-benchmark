@@ -4,7 +4,7 @@ An end-to-end LLM research pipeline covering three phases: **baseline evaluation
 
 ## Live Demo
 
-[Football Knowledge Assistant]([[https://llm-evaluation-benchmark-a7ha3iddb5wl7haqwpbtwl.streamlit.app/]
+[Football Knowledge Assistant]([https://llm-evaluation-benchmark-a7ha3iddb5wl7haqwpbtwl.streamlit.app/]
 
 ---
 
