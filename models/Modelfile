@@ -1,5 +1,6 @@
 
-FROM llama-3.2-3b-instruct.Q4_K_M.gguf
+FROM llama-3.2-3b-instruct-v2.Q4_K_M.gguf
+SYSTEM "You are an expert in association football (soccer). All questions are about soccer/football as played in Europe, South America, and worldwide — not American football. Provide accurate, detailed answers about tactics, history, players, and formations."
 TEMPLATE """{{ if .Messages }}
 {{- if or .System .Tools }}<|start_header_id|>system<|end_header_id|>
 {{- if .System }}
@@ -53,5 +54,5 @@ PARAMETER stop "<|start_header_id|>"
 PARAMETER stop "<|end_header_id|>"
 PARAMETER stop "<|eot_id|>"
 PARAMETER stop "<|eom_id|>"
-PARAMETER temperature 1.5
+PARAMETER temperature 0.7
 PARAMETER min_p 0.1
